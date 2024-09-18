@@ -27,7 +27,7 @@
    <section>
             <h2>📸 Demonstração</h2>
             <p class="text-center">
-                <img src="https://drive.google.com/file/d/1ZQkO8IxGZ--pTKCAo369O7KGxKdYXgUd/view?usp=sharing" alt="Demonstração do EscolaDotNet" class="img-fluid" />
+                <img src="" alt="Demonstração do EscolaDotNet" class="img-fluid" />
             </p>
             <p class="text-center">
                
